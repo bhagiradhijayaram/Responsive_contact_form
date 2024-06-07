@@ -30,3 +30,7 @@ Installation
 Clone the repository:  https://github.com/bhagiradhijayaram/Responsive_contact_form.git
 
 Navigate to the project directory:  cd responsive-contact-form
+
+#Preview:
+
+C:\Users\Jayaram  Prabhakar\OneDrive\Pictures\Screenshots\Screenshot (231).png
