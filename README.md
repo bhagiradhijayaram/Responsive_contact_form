@@ -1,4 +1,4 @@
-# Responsive_contact_form
+![Screenshot (231)](https://github.com/bhagiradhijayaram/Responsive_contact_form/assets/116064700/4399d7c3-7f2c-4609-b157-d84b347a4b88)# Responsive_contact_form
 
 Welcome to the Responsive Contact Form project! This repository contains a responsive contact form built using HTML, CSS, and Bootstrap. The form is designed to be user-friendly and visually appealing, adapting seamlessly to various screen sizes and devices.
 
@@ -33,4 +33,7 @@ Navigate to the project directory:  cd responsive-contact-form
 
 #Preview:
 
-C:\Users\Jayaram  Prabhakar\OneDrive\Pictures\Screenshots\Screenshot (231).png
+![Screenshot (231)](https://github.com/bhagiradhijayaram/Responsive_contact_form/assets/116064700/74359d6c-2f5a-4023-afea-128580a089e4)
+
+Live Preview: https://responsivecontactfrom.netlify.app/
+
