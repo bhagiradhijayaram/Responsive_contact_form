@@ -1,0 +1,52 @@
+body {
+    background-color: #E1FAE1;
+}
+
+.query-option {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    width: 295px;
+    transition: background-color 0.3s, border-color 0.3s;
+}
+
+.query-option:hover {
+    background-color: #E1FAE1;
+    border-color: greenyellow;
+}
+
+.form-check-input:checked + .form-check-label {
+    color: black;
+}
+
+.container {
+    margin-top: 20px;
+    background-color: #ffffff;
+    padding: 25px;
+    border-radius: 20px;
+}
+
+.form-container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.error-message {
+    color: red;
+    font-size: 0.9em;
+    margin-top: 5px;
+}
+
+.form-check-input:checked + .form-check-label::before {
+    background-color: #E1FAE1;
+    border-color: greenyellow;
+}
+
+.form-check-input:hover {
+    border-color: #E1FAE1;
+}
+
+.form-check-input:checked:hover {
+    border-color: #E1FAE1;
+}
