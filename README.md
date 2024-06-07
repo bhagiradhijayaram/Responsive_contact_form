@@ -27,5 +27,6 @@ Prerequisites
 Ensure you have a modern web browser installed (e.g., Chrome, Firefox, Safari).
 
 Installation
-Clone the repository:  git clone https://github.com/yourusername/responsive-contact-form.git
+Clone the repository:  https://github.com/bhagiradhijayaram/Responsive_contact_form.git
+
 Navigate to the project directory:  cd responsive-contact-form
